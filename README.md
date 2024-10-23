@@ -3,30 +3,7 @@
 <h1>E-NexGadget</h1>
 <p><strong>E-NexGadget</strong> is a fully-featured ecommerce platform developed using Laravel 10. It provides a seamless shopping experience with two distinct panels for administrators and customers. The platform is designed to sell electronic gadgets, with functionalities ranging from product browsing to order management. The project incorporates a user-friendly interface, Ajax-based interactions, and image processing.</p>
 
-<h2>Project Output</h2>
 
-<div style="text-align: left;">
-    <div style="margin-bottom: 20px;">
-        <img src="https://via.placeholder.com/800x400" alt="E-NexGadget Output 1" style="max-width: 100%; height: auto;">
-        <p style="text-align: center;">E-NexGadget Output 1</p>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <img src="https://via.placeholder.com/800x400" alt="E-NexGadget Output 2" style="max-width: 100%; height: auto;">
-        <p style="text-align: center;">E-NexGadget Output 2</p>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <img src="https://via.placeholder.com/800x400" alt="E-NexGadget Output 3" style="max-width: 100%; height: auto;">
-        <p style="text-align: center;">E-NexGadget Output 3</p>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <img src="https://via.placeholder.com/800x400" alt="E-NexGadget Output 4" style="max-width: 100%; height: auto;">
-        <p style="text-align: center;">E-NexGadget Output 4</p>
-    </div>
-    <div style="margin-bottom: 20px;">
-        <img src="https://via.placeholder.com/800x400" alt="E-NexGadget Output 5" style="max-width: 100%; height: auto;">
-        <p style="text-align: center;">E-NexGadget Output 5</p>
-    </div>
-</div>
 <h2>Features</h2>
 
 <h3>Admin Panel</h3>
@@ -91,6 +68,31 @@
     <li><strong>Image Processing:</strong> Handled using <a href="https://image.intervention.io/">Intervention/Image</a>.</li>
     <li><strong>Mailing:</strong> Implemented using <a href="https://mailtrap.io/">Mailtrap</a> for testing email functionality.</li>
 </ul>
+
+## Output
+![admin-1](https://github.com/user-attachments/assets/6ade97db-ecf2-4b3e-aa72-e7cd826729b4)
+
+<h4 align="center">Admin Dashboard </h4>
+
+![front-1](https://github.com/user-attachments/assets/9ba93de8-9045-4f6b-8b9d-0c8a46e607a9)
+
+<h4 align="center">Home Page </h4>
+
+![front-2](https://github.com/user-attachments/assets/cdbc7b31-7681-4645-b770-f42a50bd6b04)
+
+<h4 align="center">Shop Page </h4>
+
+![front-5](https://github.com/user-attachments/assets/aef62e6a-fefd-4d36-b255-8483043f3930)
+
+<h4 align="center">Profile Page </h4>
+
+![front-3](https://github.com/user-attachments/assets/d9ef7113-b9f2-4390-90db-807a0776f0e5)
+
+<h4 align="center">Cart Page </h4>
+
+![front-4](https://github.com/user-attachments/assets/ca3f35f8-76af-4438-ae5b-7afa3b85eeec)
+
+<h4 align="center">Checkout Page </h4>
 
 <h2>Development Team</h2>
 <p>This project was developed as a team effort:</p>
